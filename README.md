@@ -1,28 +1,30 @@
-# Hi there, I'm Parvej Alam 👋
+# Hi there, I'm M Parvej Alam 👋
 
-I'm an undergraduate CSE student passionate about **Machine Learning**, **Artificial Intelligence**, and continuous learning. I love exploring new technologies and building projects that challenge me.
+I am a software developer at **Quantum Foundation**, specializing in building scalable web applications using **Spring Boot**. Passionate about AI, I am actively learning to develop my own large language models (LLMs).
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** C, C#, Python, JavaScript  
-- **Frameworks & Libraries:** .NET, React, TensorFlow, scikit-learn  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Linux  
-- **Concepts:** OOP, Data Structures & Algorithms, Machine Learning, AI, Data Analysis
+- **Languages:** Java, C#, Python, JavaScript  
+- **Frameworks:** Spring Boot, .NET  
+- **Tools:** Git, GitHub, GitLab, VS Code, JIRA  
+- **Concepts:** Web Development, Microservices, AI/ML, Large Language Models, REST APIs
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects at Quantum Foundation
 
-- [**University Course Management System**](https://github.com/parvej236/UniversityCourseManagement)  
-  A C# console app demonstrating abstraction, inheritance, and interfaces.
-
-- [**Geometric Warehouse**](https://github.com/parvej236/GeometricWarehouse)  
-  C program managing geometric shapes with add/list/statistics features.
-
-- [**Sentiment Analysis ML Model**](https://github.com/parvej236/SentimentAnalysis)  
-  Python project using NLP and machine learning techniques.
+- Event Management Service  
+- Donation Management Service  
+- Member Management Service  
+- Hospital Management Service  
+- Quantum Log and Task Management Service  
+- Canteen Management Service  
+- Burial Management Service  
+- Resource Management Service  
+- Retail Management Service  
+- Warehouse Management Service
 
 ---
 
@@ -32,7 +34,7 @@ I'm an undergraduate CSE student passionate about **Machine Learning**, **Artifi
 
 ---
 
-## 📫 How to reach me
+## 📫 Connect with me
 
 - **Email:** parvej@example.com  
 - **LinkedIn:** [linkedin.com/in/parvej-alam](https://linkedin.com/in/parvej-alam)  
@@ -42,18 +44,18 @@ I'm an undergraduate CSE student passionate about **Machine Learning**, **Artifi
 
 ## 🌱 Currently Learning
 
+- AI & Large Language Model Development  
 - Advanced Deep Learning  
-- Cloud Computing & DevOps  
-- Scalable backend systems
+- Cloud Computing & Scalable Backend Systems
 
 ---
 
 ## 🎉 Fun Facts
 
-- I enjoy solving coding challenges daily  
-- A big fan of open-source communities  
-- Coffee fuels my coding sessions ☕️
+- I enjoy building practical web applications that solve real-world problems  
+- Open-source contributor and lifelong learner  
+- Coffee enthusiast ☕️
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or check out my projects.
+Thanks for visiting my profile! Feel free to explore my projects and connect.
