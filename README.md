@@ -8,7 +8,7 @@ I am a software developer at **Quantum Foundation**, specializing in building sc
 
 - **Languages:** Java, C#, Python, JavaScript  
 - **Frameworks:** Spring Boot, .NET  
-- **Tools:** Git, GitHub, GitLab, VS Code, JIRA  
+- **Tools:** Git, GitHub, GitLab, VS Code, IntelliJIdea
 - **Concepts:** Web Development, Microservices, AI/ML, Large Language Models, REST APIs
 
 ---
